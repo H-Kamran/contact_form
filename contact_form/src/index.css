@@ -21,14 +21,14 @@
   box-sizing: border-box;
 } */
 
-@media screen and (min-width: 1400px) {
+@media screen and (min-width: 1500px) {
   html{
-    font-size: 120%;
+    font-size: 140%;
   }
 }
-@media screen and (min-width: 1200px) and (max-width: 1399px) {
+@media screen and (min-width: 1200px) and (max-width: 1499px) {
   html{
-    font-size: 110%;
+    font-size: 120%;
   }
 }
 @media screen and (min-width: 1024px) and (max-width: 1199px) {

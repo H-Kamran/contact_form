@@ -20,7 +20,7 @@ function App() {
     <main className="container">
       <form className="contact-form">
         <div className="form-header">
-          <h1 className="header-text text-4xl font-semibold">Contact Us</h1>
+          <h1 className="header-text">Contact Us</h1>
         </div>
         {/* <label htmlFor="fullName">Full Name:</label> */}
         <input
